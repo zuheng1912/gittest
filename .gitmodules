@@ -1,0 +1,3 @@
+[submodule "vim-zsh-config"]
+	path = vim-zsh-config
+	url = https://github.com/zuheng1912/vim-zsh-config.git
